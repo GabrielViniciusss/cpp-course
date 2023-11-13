@@ -2,6 +2,11 @@
 
 int main()
 {
+    constexpr int value = 32;
+
+    int L{10};
+    std::cout<<--L<<"\n";
+  
     std::cout<<"hello world!\n";
     int x = 5;
     int y = 10;
@@ -22,6 +27,6 @@ int main()
 
     std::string name = "Biel el cabalo louco";
     std::cout<<name<<"\n";
-
+    
     return 0;
 }
