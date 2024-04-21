@@ -25,8 +25,12 @@ int main()
     if(v)
         std::cout<<"hahahahah\n";
 
-    std::string name = "Biel el cabalo louco";
+    std::string name = "kkkkkkkkkkkkk";
     std::cout<<name<<"\n";
     
+    std::string teste = "Biel louco";
+
+    std::cout<<teste<<"\n";
+
     return 0;
 }
